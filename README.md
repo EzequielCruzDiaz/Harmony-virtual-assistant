@@ -9,6 +9,8 @@ Consulta de Información: Harmony puede buscar en Wikipedia, proporcionar la fec
 Entretenimiento: ¿Necesitas una pausa? Harmony puede reproducir chistes divertidos gracias a la integración con PyJokes.
 Código Destacado
 python
+# ... (Código anterior)
+
 # Inicialización de Harmony
 def pedir_cosas():
     saludo_inicial()
@@ -17,8 +19,9 @@ def pedir_cosas():
     while comenzar:
         pedido = transformar_audio_texto().lower()
 
-        # ... (Funciones de procesamiento de comandos)
-pedir_cosas()
+        # ... (Funciones de procesamiento de comandos) 
+        pedir_cosas()
+
 
 Requisitos y Dependencias
 Para ejecutar Harmony, asegúrate de tener instaladas las siguientes bibliotecas:
