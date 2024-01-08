@@ -1,4 +1,4 @@
-Descripción del Proyecto
+<br>Descripción del Proyecto<br>
 Bienvenido al repositorio de Harmony, tu asistente virtual desarrollado en Python. Harmony es más que un simple programa; es tu compañero virtual diseñado para hacerte la vida más fácil y divertida. Este asistente multifuncional puede realizar diversas tareas, desde proporcionar información sobre el clima y noticias hasta abrir aplicaciones y enviar mensajes de WhatsApp.
 
 Funcionalidades Destacadas
